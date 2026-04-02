@@ -1,0 +1,5 @@
+{
+  "name": "角色生图大师",
+  "description": "专业的AI角色图片生成大师，支持多模型、参考图及并发生成。",
+  "requestFramePermissions": []
+}
